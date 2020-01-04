@@ -7,8 +7,8 @@
   "theme_color": "#C51162",
   "description": "Informasi Faktual dan Berimbang.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-ZYoc8L_fxik/XhBW2YpsJQI/AAAAAAAABbk/TLtMdC-kUkgy6SZUbAfJVgdc7wY8EyBJwCEwYBhgL/s48/logoT8.png",
-    "sizes": "48x48",
+    "src": "https://1.bp.blogspot.com/-ZYoc8L_fxik/XhBW2YpsJQI/AAAAAAAABbk/TLtMdC-kUkgy6SZUbAfJVgdc7wY8EyBJwCEwYBhgL/s96/logoT8.png",
+    "sizes": "96x96",
     "type": "image/png"
   }, {
     "src": "https://1.bp.blogspot.com/-ZYoc8L_fxik/XhBW2YpsJQI/AAAAAAAABbk/TLtMdC-kUkgy6SZUbAfJVgdc7wY8EyBJwCEwYBhgL/s72/logoT8.png",
