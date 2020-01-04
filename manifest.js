@@ -7,7 +7,7 @@
   "theme_color": "#C51162",
   "description": "Informasi Faktual dan Berimbang.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-ZYoc8L_fxik/XhBW2YpsJQI/AAAAAAAABbk/TLtMdC-kUkgy6SZUbAfJVgdc7wY8EyBJwCEwYBhgL/48/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-ZYoc8L_fxik/XhBW2YpsJQI/AAAAAAAABbk/TLtMdC-kUkgy6SZUbAfJVgdc7wY8EyBJwCEwYBhgL/s48/logoT8.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
